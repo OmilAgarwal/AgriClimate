@@ -70,11 +70,7 @@ We are a passionate group of developers, agronomists, and environmentalists work
 
 ## 🚀 Installation & Running the App
 
-1. Clone the repository:
-
-   ```bash
-   git clone https://github.com/Aaditya-Kumar-Mittal/AgriClimate-Kotlin-App.git
-   ```
+1. Clone the repository.
 
 2. Open the project in **Android Studio**.
 
